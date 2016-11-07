@@ -1,0 +1,2 @@
+# chipinfo
+CHIP computer development
